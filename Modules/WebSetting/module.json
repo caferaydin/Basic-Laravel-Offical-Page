@@ -1,0 +1,11 @@
+{
+    "name": "WebSetting",
+    "alias": "websetting",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\WebSetting\\Providers\\WebSettingServiceProvider"
+    ],
+    "files": []
+}

@@ -1,0 +1,8 @@
+
+
+
+Admin Panel
+->D:\Workspace\PHP-HTML\HTML\AdminTemplate\Sash v12 HTML\Html\sash
+
+Web Page
+-> D:\Workspace\PHP-HTML\HTML\HTML 5 Hazır Template\032 ultim8-gh-pages
